@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>492975E2-FDD2-49D3-A2E3-9FE3E7EB4442</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Designer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0FDDC8A0-BBBC-4E1E-883C-CE929B5FE276</key>
+		<string>http://tomato.local/git/desgner.gi</string>
+		<key>CAF581C1-45DE-404B-A789-D575908B06AA</key>
+		<string>http://tomato.local/git/desgner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Designer.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0FDDC8A0-BBBC-4E1E-883C-CE929B5FE276</key>
+		<string>../../../Documents/192.168.1.113/code/Designer</string>
+		<key>CAF581C1-45DE-404B-A789-D575908B06AA</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://tomato.local/git/desgner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAF581C1-45DE-404B-A789-D575908B06AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAF581C1-45DE-404B-A789-D575908B06AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>desgner</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0FDDC8A0-BBBC-4E1E-883C-CE929B5FE276</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Designer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
